@@ -3,7 +3,7 @@
 # Design Identity Management
 May include but not limited to: Choose an identity management approach; design an identity delegation strategy, identity repository (including directory, application, systems, etc.); design self-service identity management and user and persona provisioning; define personas and roles; recommend appropriate access control strategy (e.g., attribute-based, discretionary access, history-based, identity-based, mandatory, organization-based, role-based, rule-based, responsibility-based).
 
-**Note that the [Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/overview) and the [Azure security best practices and patterns](https://docs.microsoft.com/en-us/azure/security/security-best-practices-and-patterns) documentation are the key materials to review for this exam objective.**
+__Note that the [Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/overview) and the [Azure security best practices and patterns](https://docs.microsoft.com/en-us/azure/security/security-best-practices-and-patterns) documentation are the key materials to review for this exam objective.__
 
 * Choose an identity management approach
 * Design an identity delegation strategy, identity repository (including directory, application, systems, etc.)
