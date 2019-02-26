@@ -35,37 +35,27 @@ May include but not limited to: Identify compliance requirements, identity and a
 * [Create testing scenarios](https://azure.microsoft.com/en-us/solutions/dev-test/%23references)
 
 ## Optimize Consumption Strategy 
-May include but not limited to: Optimize app service, compute, identity, network, and storage costs
-Topic	Link
-Optimize app service	App Service overview
-Introduction to the App Service Environments
-Azure App Service, Virtual Machines, Service Fabric, and Cloud Services comparison
+May include but not limited to: Optimize app service, compute, identity, network, and storage costs.
 
-Compute	Best Practices for Azure App Service
+* Optimize app service
+    * https://docs.microsoft.com/en-us/azure/app-service/overview
+    * https://docs.microsoft.com/en-us/azure/app-service/environment/intro
+    * https://docs.microsoft.com/en-us/azure/app-service/overview-compare
+* [Compute](https://docs.microsoft.com/en-us/azure/app-service/app-service-best-practices?toc=%2fazure%2fapp-service%2fenvironment%2ftoc.json)
+* [Identity](https://docs.microsoft.com/en-us/azure/active-directory/develop/)	
+* [Network](https://docs.microsoft.com/en-us/azure/app-service/environment/network-info)
+* [Storage Costs](https://azure.microsoft.com/en-us/pricing/details/storage/blobs/)	
 
-Identity	Microsoft identity platform (Azure Active Directory for developers)
+## Design an Auditing and Monitoring Strategy 
+May include but not limited to: Define logical groupings (tags) for resources to be monitored; determine levels and storage locations for logs; plan for integration with monitoring tools; recommend appropriate monitoring tool(s) for a solution; specify mechanism for event routing and escalation; design auditing for compliance requirements; design auditing policies and traceability requirements. 
 
-Network	Networking considerations for an App Service Environment
-
-Storage Costs	Block Blob Pricing
-
-
-Design an Auditing and Monitoring Strategy 
-May include but not limited to: Define logical groupings (tags) for resources to be monitored; determine levels and storage locations for logs; plan for integration with monitoring tools; recommend appropriate monitoring tool(s) for a solution; specify mechanism for event routing and escalation; design auditing for compliance requirements; design auditing policies and traceability requirements 
-Topic	Link
-Define logical groupings (tags) for resources to be monitored	Use tags to organize your Azure resources
-
-Determine levels and storage locations for logs	Enabling Storage Logging and Accessing Log Data
-
-Plan for integration with monitoring tools	Use Azure Monitor to integrate with SIEM tools
-
-Recommend appropriate monitoring tool(s) for a solution	Azure Monitor Overview
-
-Specify mechanism for event routing and escalation	What is Azure Event Grid?
-
-Design auditing for compliance requirements	Security and Identity
-
-Design auditing policies and traceability requirements	Azure Pipelines
+* [Define logical groupings (tags) for resources to be monitored](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-using-tags)
+* [Determine levels and storage locations for logs](https://docs.microsoft.com/en-us/rest/api/storageservices/enabling-storage-logging-and-accessing-log-data)
+* [Plan for integration with monitoring tools](https://azure.microsoft.com/en-us/blog/use-azure-monitor-to-integrate-with-siem-tools/)
+* [Recommend appropriate monitoring tool(s) for a solution](https://docs.microsoft.com/en-us/azure/azure-monitor/overview)
+* [Specify mechanism for event routing and escalation](https://docs.microsoft.com/en-us/azure/event-grid/overview)
+* [Design auditing for compliance requirements](https://docs.microsoft.com/en-us/azure/devops/organizations/security/?view=azure-devops)
+* [Design auditing policies and traceability requirements](https://azure.microsoft.com/en-us/services/devops/pipelines/)
 
 
 
