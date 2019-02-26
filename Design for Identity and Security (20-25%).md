@@ -1,12 +1,16 @@
 # Design for Identity and Security (20-25%)
 
 # Design Identity Management
-May include but not limited to: Choose an identity management approach; design an identity delegation strategy, identity repository (including directory, application, systems, etc.); design self-service identity management and user and persona provisioning; define personas and roles; recommend appropriate access control strategy (e.g., attribute-based, discretionary access, history-based, identity-based, mandatory, organization-based, role-based, rule-based, responsibility-based)
-* [Choose an identity management approach](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/identity/)
-* [Design an identity delegation strategy, identity repository (including directory, application, systems, etc.)	](https://docs.microsoft.com/en-us/azure/architecture/multitenant-identity/ )
-* [Design self-service identity management and user and persona provisioning]()	
-* [Define personas and roles]()
-* [Recommend appropriate access control strategy (e.g., attribute-based, discretionary access, history-based, identity-based, mandatory, organization-based, role-based, rule-based, responsibility-based)]()
+May include but not limited to: Choose an identity management approach; design an identity delegation strategy, identity repository (including directory, application, systems, etc.); design self-service identity management and user and persona provisioning; define personas and roles; recommend appropriate access control strategy (e.g., attribute-based, discretionary access, history-based, identity-based, mandatory, organization-based, role-based, rule-based, responsibility-based).
+
+**Note that the [Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/overview) and the [Azure security best practices and patterns](https://docs.microsoft.com/en-us/azure/security/security-best-practices-and-patterns) documentation are the key materials to review for this exam objective.**
+
+* Choose an identity management approach
+* Design an identity delegation strategy, identity repository (including directory, application, systems, etc.)
+* Design self-service identity management and user and persona provisioning
+* Define personas and roles
+* Recommend appropriate access control strategy (e.g., attribute-based, discretionary access, history-based, identity-based, mandatory, organization-based, role-based, rule-based, responsibility-based)
+
 	
 ## Design Authentication
 May include but not limited to: Choose an authentication approach; design a single-sign on approach; design for IPSec, logon, multi-factor, network access, and remote authentication.
@@ -33,7 +37,7 @@ May include but not limited to: Choose an authorization approach; define access 
     * https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts 
     * https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-mutual-certificates 
 
-##Design for Risk Prevention for Identity
+## Design for Risk Prevention for Identity
 May include but not limited to: Design a risk assessment strategy (e.g., access reviews, RBAC policies, physical access); evaluate agreements involving services or products from vendors and contractors; update solution design to address and mitigate changes to existing security policies, standards, guidelines and procedures.
 * [Design a risk assessment strategy (e.g., access reviews, RBAC policies, physical access)](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/identity/)
 * [Evaluate agreements involving services or products from vendors and contractors]()
