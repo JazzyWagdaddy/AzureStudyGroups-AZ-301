@@ -27,14 +27,17 @@ Read the [Azure Data Architecture Guide](https://docs.microsoft.com/en-us/azure/
 ## Design a Data Protection Strategy
 May include but not limited to: Recommend geographic data storage; design an encryption strategy for data at rest, for data in transmission, and for data in use; design a scalability strategy for data; design secure access to data; design a data loss prevention (DLP) policy.
 
+*Read [Define data protection strategy for your hybrid identity solution](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/plan-hybrid-identity-design-considerations-data-protection-strategy)*
 *  Recommend geographic data storage
-* design an encryption strategy for data at rest, for data in transmission, and for data in use
-* design a scalability strategy for data
-* design secure access to data
-* design a data loss prevention (DLP) policy
+* Design an encryption strategy for data at rest, for data in transmission, and for data in use
+* Design a scalability strategy for data
+* Design secure access to data
+* Design a data loss prevention (DLP) policy
 
 ## Design and Document Data Flows
 May include but not limited to: Identify data flow requirements; create a data flow diagram; design a data flow to meet business requirements; design a data import and export strategy.
+
+*Review the [Azure Data Explorer](https://docs.microsoft.com/en-us/azure/data-explorer/) documentation and [Azure Data Factory Mapping Data Flow Select Transformation](https://docs.microsoft.com/en-us/azure/data-factory/data-flow-select).*
 * Identify data flow requirements
 * create a data flow diagram
 * design a data flow to meet business requirements
@@ -47,4 +50,5 @@ May include but not limited to: Design for alert notifications; design an alert 
 * Design for alert notifications
     * [Consume monitoring data from Azure](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/data-sources-reference#options-for-data-consumption)
 * Design an alert and metrics strategy
+    * [Monitoring and diagnostics](https://docs.microsoft.com/en-us/azure/architecture/best-practices/monitoring)  *Note this is a long read*
 
