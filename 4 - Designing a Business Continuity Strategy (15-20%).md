@@ -7,11 +7,9 @@
 ## Design a Site Recovery Strategy
 May include but not limited to: Design a recovery solution; design a site recovery replication policy; design for site recovery capacity and for storage replication; design site failover and failback (planned/unplanned); design the site recovery network; recommend recovery objectives (e.g., Azure, on-prem, hybrid, Recovery Time Objective (RTO), Recovery Level Objective (RLO), Recovery Point Objective (RPO)); identify resources that require site recovery; identify supported and unsupported workloads; recommend a geographical distribution strategy
 
-Read the [Azure Site Recovery Overview](https://docs.microsoft.com/en-us/azure/site-recovery/site-recovery-overview)
+Read the [Azure Site Recovery Overview](https://docs.microsoft.com/en-us/azure/site-recovery/site-recovery-overview) and [Design a recovery solution](https://docs.microsoft.com/en-us/azure/architecture/resiliency/disaster-recovery-azure-applications) articles.
 
-Design a recovery solution(https://docs.microsoft.com/en-us/azure/architecture/resiliency/disaster-recovery-azure-applications)
-
-    * [Design a site recovery replication policy](https://docs.microsoft.com/en-us/azure/site-recovery/vmware-azure-set-up-replication)
+* [Design a site recovery replication policy](https://docs.microsoft.com/en-us/azure/site-recovery/vmware-azure-set-up-replication)
 [Design for site recovery capacity and for storage replication](https://docs.microsoft.com/en-us/azure/site-recovery/site-recovery-plan-capacity-vmware)
 * [Design site failover and failback (planned/unplanned)](https://docs.microsoft.com/en-us/azure/site-recovery/site-recovery-create-recovery-plans)
 * Design the site recovery Network
