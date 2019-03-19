@@ -20,12 +20,21 @@ Given how broad this chapter is you may want to review the massive [Azure Archit
         * [Azure Strategy and Implementation Guide](https://azure.microsoft.com/en-us/resources/azure-strategy-and-implementation-guide/en-us/) *(glance over this)*
 
 ## Design Migrations
+
+### Required reading for this section:
+* *[Best practices for securing and managing workloads migrated to Azure](https://docs.microsoft.com/en-us/azure/migrate/migrate-best-practices-security-management)*
+* *[Contoso Migration Series](https://docs.microsoft.com/en-us/azure/migrate/contoso-migration-overview)*
+
 * Recommend a migration strategy
+    * [The 5 Rs of rationalization](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/digital-estate/5-rs-of-rationalization)
+
 * Design data import/export strategies during migration
 * Determine the appropriate application migration, data transfer, and network connectivity method
-* Determine migration scope, including redundant, related, trivial, and outdated data; determine application and data compatibility
+* Determine migration scope, including redundant, related, trivial, and outdated data
+* Determine application and data compatibility
+
 
 ## Design an API Integration Strategy
-* Design an API gateway strategy
-* Determine policies for internal and external consumption of APIs
-* Recommend a hosting structure for API management
+* [Design an API gateway strategy](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
+* [Determine policies for internal and external consumption of APIs](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-implementation)
+* Recommend a hosting structure for API management (*Use same link as above*)
