@@ -22,8 +22,7 @@ Given how broad this chapter is you may want to review the massive [Azure Archit
 ## Design Migrations
 
 ### Required reading for this section:
-* *[Best practices for securing and managing workloads migrated to Azure](https://docs.microsoft.com/en-us/azure/migrate/migrate-best-practices-security-management)*
-* *[Contoso Migration Series](https://docs.microsoft.com/en-us/azure/migrate/contoso-migration-overview)*
+ *[Best practices for securing and managing workloads migrated to Azure](https://docs.microsoft.com/en-us/azure/migrate/migrate-best-practices-security-management)* and *[Contoso Migration Series](https://docs.microsoft.com/en-us/azure/migrate/contoso-migration-overview)*
 
 * Recommend a migration strategy
     * [The 5 Rs of rationalization](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/digital-estate/5-rs-of-rationalization)
