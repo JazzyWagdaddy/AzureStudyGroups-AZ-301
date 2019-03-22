@@ -1,4 +1,4 @@
-# Design an Infrastructure Strategy (15-20%)
+# Design an Infrastructure Strategy (15-20%) 
 
 *Consider completing this course on OpenEdx: [Designing a Data Platform Solution](https://openedx.microsoft.com/courses/course-v1:Microsoft+AZ-301.2+2019_T1/course/).*
 
