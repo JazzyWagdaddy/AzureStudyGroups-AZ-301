@@ -9,6 +9,7 @@ May include but not limited to: Choose between managed and unmanaged data store;
 
 Read the [Azure Data Architecture Guide](https://docs.microsoft.com/en-us/azure/architecture/data-guide/)
 * [Choose between managed and unmanaged data store](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/managed-disks-overview)
+* [Choose the right data store](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-overview)
 * Choose between relational and non-relational databases
     * [Find the database product you need](https://azure.microsoft.com/en-us/product-categories/databases/)
     * [Azure Strategy and Implementation Guide](https://azure.microsoft.com/en-us/resources/azure-strategy-and-implementation-guide/en-us/)
