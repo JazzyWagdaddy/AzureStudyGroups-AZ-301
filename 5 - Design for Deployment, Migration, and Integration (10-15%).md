@@ -38,7 +38,7 @@ Design a compute, container, data platform, messaging solution, storage, and web
 
 * Recommend a migration strategy
   * [The 5 Rs of rationalization](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/digital-estate/5-rs-of-rationalization)
-
+  * [Choose the right SQL Server option in Azure](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-paas-vs-sql-server-iaas)
 * Design data import/export strategies during migration
 * Determine the appropriate application migration, data transfer, and network connectivity method
   * [Data transfer for large datasets with moderate to high network bandwidth](https://docs.microsoft.com/en-us/azure/storage/common/storage-solution-large-dataset-moderate-high-network?toc=%2fazure%2fstorage%2fblobs%2ftoc.json)
