@@ -45,13 +45,20 @@ May include but not limited to: Recommend geographic data storage; design an enc
 
 
 ## Design and Document Data Flows
+
 May include but not limited to: Identify data flow requirements; create a data flow diagram; design a data flow to meet business requirements; design a data import and export strategy.
 
 *Review the [Azure Data Explorer](https://docs.microsoft.com/en-us/azure/data-explorer/) documentation and [Azure Data Factory Mapping Data Flow Select Transformation](https://docs.microsoft.com/en-us/azure/data-factory/data-flow-select).*
 * Identify data flow requirements
-* create a data flow diagram
-* design a data flow to meet business requirements
-* design a data import and export strategy
+    * [What are Mapping Data Flows?](https://docs.microsoft.com/en-us/azure/data-factory/concepts-data-flow-overview)
+* Create a data flow diagram
+    * [What are Mapping Data Flows?](https://docs.microsoft.com/en-us/azure/data-factory/concepts-data-flow-overview)
+* Design a data flow to meet business requirements
+    * [Mapping Data Flow Schema Drift](https://docs.microsoft.com/en-us/azure/data-factory/concepts-data-flow-schema-drift)
+* Design a data import and export strategy
+    * [Copy data from Azure Blob storage to a SQL database by using the Copy Data tool](https://docs.microsoft.com/en-us/azure/data-factory/tutorial-copy-data-tool)
+    * [Copy data from an on-premises SQL Server database to Azure Blob storage by using the Copy Data tool](https://docs.microsoft.com/en-us/azure/data-factory/tutorial-hybrid-copy-data-tool)
+    * [Copy multiple tables in bulk by using Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/tutorial-bulk-copy-portal)
 
 
 ## Design a Monitoring Strategy for the Data Platform
